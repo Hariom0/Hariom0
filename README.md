@@ -1,12 +1,10 @@
 # 💫 About Me:
 "CS student | Web Dev & Cybersecurity Enthusiast | Building cool stuff one repo at a time."
-[[
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+Hariom+Singh)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&size=13&letterSpacing=&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=CS+student+%7C+Web+Dev+%26+Cybersecurity+Enthusiast+.)](https://git.io/typing-svg)
-
-]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+Hariom+Singh" alt="Typing SVG"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=13&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=CS+student+%7C+Web+Dev+%26+Cybersecurity+Enthusiast+." alt="Typing SVG"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hariom-singh-9651a4214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariomsing7323@gmail.com) 
