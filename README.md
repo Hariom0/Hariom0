@@ -76,5 +76,11 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Hariom0/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Hariom0/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
 
